@@ -12,6 +12,15 @@ gcc lex.yy.c -o lexer -lfl
 ./lexer < textnoinput.txt 
           </code>  
 </pre>
+
+<h2>the set of all 4 digit numbers whose individual digits are in ascending order from left to right</h2>
+<pre>
+  <code>
+    flex ascendings.l
+    gcc lex.yy.c -o ascending -ll
+    ./ascending ascending.txt
+  </code>
+</pre>
   <pre>
   <code>
     ./10th_from_right < input_10.txt
