@@ -1,3 +1,4 @@
+<html>
 # compiler Design 
 
 <pre >
@@ -22,7 +23,7 @@ gcc lex.yy.c -o lexer -lfl
   </code>
 </pre>
   
-  
+<table>
   <ol>
     ./lexer < textnoinput.txt 
     ./10th_from_right < input_10.txt
@@ -33,5 +34,5 @@ gcc lex.yy.c -o lexer -lfl
     ./vowels < vowels_input.txt
     ./ascending ascending.txt
     </ol>
-    
-  
+  </table>
+    </html>
