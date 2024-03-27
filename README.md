@@ -29,7 +29,7 @@ gcc lex.yy.c -o lexer -lfl
   </h3>
   <pre>
   <code>
-    ./lexer < textnoinput.txt 
+    ./lexer < input.txt
     ./10th_from_right < input_10.txt
     ./222_lex < input_222.txt
     ./lexer < input_11.txt
