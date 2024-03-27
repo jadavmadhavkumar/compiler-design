@@ -29,5 +29,6 @@ gcc lex.yy.c -o lexer -lfl
     ./sum_4 < input_sum4.txt
     ./float_num < input_float.txt  
     ./vowels < vowels_input.txt
+    ./ascending ascending.txt
   </code>
   </pre>
