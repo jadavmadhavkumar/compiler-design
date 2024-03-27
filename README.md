@@ -21,9 +21,9 @@ gcc lex.yy.c -o lexer -lfl
     ./ascending ascending.txt
   </code>
 </pre>
-  <pre>
-  <code>
-    <ol>
+  
+  
+  <ol>
     ./lexer < textnoinput.txt 
     ./10th_from_right < input_10.txt
     ./222_lex < input_222.txt
@@ -33,5 +33,5 @@ gcc lex.yy.c -o lexer -lfl
     ./vowels < vowels_input.txt
     ./ascending ascending.txt
     </ol>
-    </code>
-  </pre>
+    
+  
