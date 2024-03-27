@@ -23,6 +23,7 @@ gcc lex.yy.c -o lexer -lfl
 </pre>
   <pre>
   <code>
+    ./lexer < textnoinput.txt 
     ./10th_from_right < input_10.txt
     ./222_lex < input_222.txt
     ./lexer < input_11.txt
