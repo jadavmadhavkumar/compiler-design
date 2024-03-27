@@ -37,6 +37,7 @@ gcc lex.yy.c -o lexer -lfl
     ./float_num < input_float.txt  
     ./vowels < vowels_input.txt
     ./ascending ascending.txt
+    ./convert  < convert.txt
     </code>
     </pre>
   
