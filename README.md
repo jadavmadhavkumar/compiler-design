@@ -24,7 +24,9 @@ gcc lex.yy.c -o lexer -lfl
 </pre>
   
 
-  <pre>
+  <h3>
+    all code done by this command 
+  </h3>
   <code>
     ./lexer < textnoinput.txt 
     ./10th_from_right < input_10.txt
@@ -35,6 +37,6 @@ gcc lex.yy.c -o lexer -lfl
     ./vowels < vowels_input.txt
     ./ascending ascending.txt
     </code>
-    </pre>
+    
   
-    </html>
+   
